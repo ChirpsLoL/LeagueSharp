@@ -1,0 +1,2 @@
+F:\L#\LeagueSharp\The Axe Juggler\The Axe Juggler\bin\Debug\The Axe Juggler.exe.config
+F:\L#\LeagueSharp\The Axe Juggler\The Axe Juggler\obj\Debug\The Axe Juggler.csprojResolveAssemblyReference.cache
