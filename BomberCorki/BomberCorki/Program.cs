@@ -239,7 +239,7 @@ namespace BomberCorki
                 {
                     if (R.IsReady())
                     {
-                        if (Player.Mana / Player.MaxMana * 100 >= GetSlider("RManaC") || target.IsKillable(target))
+                        if (Player.Mana / Player.MaxMana * 100 >= GetSlider("RManaC"))
                         {
                             if (target.IsValidTarget(Q.Range))
                                 R.Cast(target, false, true);

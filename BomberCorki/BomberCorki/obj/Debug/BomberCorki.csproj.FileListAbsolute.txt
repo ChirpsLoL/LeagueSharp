@@ -1,0 +1,14 @@
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\BomberCorki.exe.config
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\BomberCorki.exe
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\BomberCorki.pdb
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\LeagueSharp.Common.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\LeagueSharp.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Direct3D9.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.Graphics.dll
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\LeagueSharp.xml
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.xml
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.Graphics.xml
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\obj\Debug\BomberCorki.exe
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\obj\Debug\BomberCorki.pdb
