@@ -12,3 +12,4 @@ F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.xml
 F:\L#\LeagueSharp\BomberCorki\BomberCorki\bin\Release\SharpDX.Toolkit.Graphics.xml
 F:\L#\LeagueSharp\BomberCorki\BomberCorki\obj\Debug\BomberCorki.exe
 F:\L#\LeagueSharp\BomberCorki\BomberCorki\obj\Debug\BomberCorki.pdb
+F:\L#\LeagueSharp\BomberCorki\BomberCorki\obj\Debug\BomberCorki.csprojResolveAssemblyReference.cache
